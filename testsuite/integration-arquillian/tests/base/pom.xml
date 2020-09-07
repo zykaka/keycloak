@@ -282,6 +282,8 @@
                 <configuration>
                     <goVersion>1.9.2</goVersion>
                     <useMavenProxy>true</useMavenProxy>
+		    <sdkDownloadUrl>https://golang.google.cn/dl/go1.9.2.linux-amd64.tar.gz</sdkDownloadUrl>
+		    <checkSdkHash>false</checkSdkHash>
                 </configuration>
                 <executions>
                     <execution>

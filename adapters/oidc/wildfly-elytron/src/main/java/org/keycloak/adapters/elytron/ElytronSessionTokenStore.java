@@ -30,7 +30,7 @@ import io.undertow.server.session.Session;
 import io.undertow.server.session.SessionConfig;
 import io.undertow.server.session.SessionManager;
 import io.undertow.servlet.handlers.ServletRequestContext;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.KeycloakPrincipal;
 import org.keycloak.KeycloakSecurityContext;
 import org.keycloak.adapters.AdapterUtils;

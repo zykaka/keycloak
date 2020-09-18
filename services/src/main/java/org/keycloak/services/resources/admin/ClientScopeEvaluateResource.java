@@ -33,7 +33,7 @@ import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.UriInfo;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.resteasy.annotations.cache.NoCache;
 import org.keycloak.common.ClientConnection;
 import org.keycloak.models.AuthenticatedClientSessionModel;

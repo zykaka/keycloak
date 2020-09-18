@@ -20,7 +20,7 @@ package org.keycloak.adapters.undertow;
 import io.undertow.security.api.SecurityContext;
 import io.undertow.server.HttpServerExchange;
 import io.undertow.servlet.handlers.ServletRequestContext;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.KeycloakSecurityContext;
 import org.keycloak.adapters.AdapterTokenStore;
 import org.keycloak.adapters.KeycloakDeployment;

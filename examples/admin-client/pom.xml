@@ -38,6 +38,11 @@
             <groupId>org.keycloak</groupId>
             <artifactId>keycloak-admin-client</artifactId>
         </dependency>
+        <dependency>
+            <groupId>org.keycloak</groupId>
+            <artifactId>keycloak-common</artifactId>
+            <scope>provided</scope>
+        </dependency>
     </dependencies>
 
     <build>

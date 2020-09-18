@@ -19,7 +19,7 @@ package org.keycloak.adapters;
 
 import java.security.PublicKey;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.TokenVerifier;
 import org.keycloak.adapters.authentication.ClientCredentialsProvider;
 import org.keycloak.adapters.authentication.JWTClientCredentialsProvider;

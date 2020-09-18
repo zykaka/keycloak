@@ -33,7 +33,7 @@ import org.keycloak.constants.AdapterConstants;
 import org.keycloak.representations.AccessTokenResponse;
 import org.keycloak.util.JsonSerialization;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

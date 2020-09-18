@@ -3,7 +3,7 @@ package org.keycloak.testsuite.arquillian.containers;
 import com.fasterxml.jackson.core.type.TypeReference;
 import org.jboss.arquillian.container.spi.ConfigurationException;
 import org.jboss.arquillian.container.spi.client.container.ContainerConfiguration;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.util.JsonSerialization;
 
 import java.io.IOException;

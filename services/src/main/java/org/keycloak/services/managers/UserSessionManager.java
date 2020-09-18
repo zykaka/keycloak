@@ -16,7 +16,7 @@
  */
 package org.keycloak.services.managers;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.Time;
 import org.keycloak.models.AuthenticatedClientSessionModel;
 import org.keycloak.models.ClientModel;

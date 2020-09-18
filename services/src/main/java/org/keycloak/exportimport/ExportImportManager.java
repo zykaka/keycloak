@@ -18,7 +18,7 @@
 package org.keycloak.exportimport;
 
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.models.KeycloakSessionFactory;
 import org.keycloak.services.ServicesLogger;

@@ -38,7 +38,7 @@ import org.jboss.arquillian.test.spi.event.suite.AfterClass;
 import org.jboss.arquillian.test.spi.event.suite.AfterSuite;
 import org.jboss.arquillian.test.spi.event.suite.BeforeClass;
 import org.jboss.arquillian.test.spi.event.suite.BeforeSuite;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.shrinkwrap.api.ShrinkWrap;
 import org.keycloak.admin.client.Keycloak;
 import org.keycloak.common.util.StringPropertyReplacer;

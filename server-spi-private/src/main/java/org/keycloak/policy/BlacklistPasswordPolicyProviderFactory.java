@@ -19,7 +19,7 @@ package org.keycloak.policy;
 
 import com.google.common.hash.BloomFilter;
 import com.google.common.hash.Funnels;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.models.KeycloakSessionFactory;

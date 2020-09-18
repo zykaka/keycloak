@@ -22,7 +22,7 @@ import org.ietf.jgss.GSSCredential;
 import org.ietf.jgss.GSSException;
 import org.ietf.jgss.GSSManager;
 import org.ietf.jgss.Oid;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.constants.KerberosConstants;
 import org.keycloak.common.util.Base64;
 import org.keycloak.common.util.KerberosSerializationUtils;

@@ -11,7 +11,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 import java.util.concurrent.ThreadLocalRandom;
 import org.apache.commons.configuration.CombinedConfiguration;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import static org.keycloak.performance.RealmsConfigurationBuilder.computeAppUrl;
 import static org.keycloak.performance.RealmsConfigurationBuilder.computeClientId;

@@ -5,8 +5,8 @@ import java.util.Iterator;
 import org.apache.commons.configuration.Configuration;
 import org.apache.commons.configuration.ConfigurationException;
 import org.apache.commons.configuration.PropertiesConfiguration;
-import org.jboss.logging.Logger;
-import org.jboss.logging.Logger.Level;
+import org.keycloak.common.Logger;
+import org.keycloak.common.Logger.Level;
 import static org.jboss.logging.Logger.Level.INFO;
 
 /**

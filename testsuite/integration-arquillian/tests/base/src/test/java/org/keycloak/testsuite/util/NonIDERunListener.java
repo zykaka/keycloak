@@ -18,7 +18,7 @@
 package org.keycloak.testsuite.util;
 
 import org.apache.log4j.Level;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.junit.runner.Description;
 import org.junit.runner.notification.RunListener;
 

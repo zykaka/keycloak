@@ -20,7 +20,7 @@ package org.keycloak.adapters.authentication;
 import org.apache.http.NameValuePair;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.message.BasicNameValuePair;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.KeycloakDeployment;
 
 import java.util.HashMap;

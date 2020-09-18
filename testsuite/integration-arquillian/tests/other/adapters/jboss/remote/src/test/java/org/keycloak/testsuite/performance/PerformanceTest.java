@@ -1,6 +1,6 @@
 package org.keycloak.testsuite.performance;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

@@ -18,7 +18,7 @@
 package org.keycloak.protocol;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Token;
 import org.keycloak.TokenCategory;
 import org.keycloak.common.ClientConnection;

@@ -17,7 +17,7 @@
 
 package org.keycloak.authentication.requiredactions;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.OAuth2Constants;
 import org.keycloak.authentication.*;

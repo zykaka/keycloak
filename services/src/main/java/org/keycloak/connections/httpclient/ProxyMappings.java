@@ -18,7 +18,7 @@ package org.keycloak.connections.httpclient;
 
 import org.apache.http.HttpHost;
 import org.apache.http.auth.UsernamePasswordCredentials;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import java.net.URI;
 import java.util.Arrays;

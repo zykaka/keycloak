@@ -23,7 +23,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.FutureTask;
 
 import org.infinispan.Cache;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.cluster.ClusterEvent;
 import org.keycloak.cluster.ClusterProvider;

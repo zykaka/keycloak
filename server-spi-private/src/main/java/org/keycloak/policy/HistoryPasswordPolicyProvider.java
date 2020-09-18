@@ -17,7 +17,7 @@
 
 package org.keycloak.policy;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.credential.CredentialModel;
 import org.keycloak.credential.hash.PasswordHashProvider;
 import org.keycloak.models.KeycloakSession;

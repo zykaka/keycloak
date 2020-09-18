@@ -18,7 +18,7 @@ package org.keycloak.services.resources.admin;
 
 import static javax.ws.rs.core.Response.Status.BAD_REQUEST;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.resteasy.annotations.cache.NoCache;
 import javax.ws.rs.NotFoundException;
 import org.keycloak.authorization.model.Resource;

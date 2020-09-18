@@ -17,7 +17,7 @@
 
 package org.keycloak.keys.loader;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.authentication.authenticators.client.JWTClientAuthenticator;
 import org.keycloak.common.util.KeyUtils;
 import org.keycloak.crypto.Algorithm;

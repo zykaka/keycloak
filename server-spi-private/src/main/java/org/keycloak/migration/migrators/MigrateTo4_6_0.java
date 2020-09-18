@@ -17,7 +17,7 @@
 
 package org.keycloak.migration.migrators;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.migration.MigrationProvider;
 import org.keycloak.migration.ModelVersion;
 import org.keycloak.models.ClientModel;

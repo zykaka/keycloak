@@ -28,7 +28,7 @@ import liquibase.statement.core.DropTableStatement;
 import liquibase.statement.core.InitializeDatabaseChangeLogLockTableStatement;
 import liquibase.statement.core.LockDatabaseChangeLogStatement;
 import liquibase.statement.core.RawSqlStatement;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.Time;
 import org.keycloak.common.util.reflections.Reflections;
 import org.keycloak.models.dblock.DBLockProvider;

@@ -16,7 +16,7 @@
  */
 package org.keycloak.testsuite.utils.arquillian;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.shrinkwrap.resolver.api.maven.Maven;
 import org.jboss.shrinkwrap.resolver.api.maven.PomEquippedResolveStage;
 import org.jboss.shrinkwrap.resolver.api.maven.ScopeType;

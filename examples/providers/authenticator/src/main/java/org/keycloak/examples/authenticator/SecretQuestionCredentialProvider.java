@@ -16,7 +16,7 @@
  */
 package org.keycloak.examples.authenticator;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.Time;
 import org.keycloak.credential.CredentialInput;
 import org.keycloak.credential.CredentialInputValidator;

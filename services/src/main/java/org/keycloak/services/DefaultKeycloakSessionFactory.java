@@ -16,7 +16,7 @@
  */
 package org.keycloak.services;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.common.util.MultivaluedHashMap;
 import org.keycloak.models.KeycloakSession;

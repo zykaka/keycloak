@@ -25,7 +25,7 @@ import org.infinispan.Cache;
 import org.infinispan.client.hotrod.RemoteCache;
 import org.infinispan.manager.EmbeddedCacheManager;
 import org.infinispan.persistence.remote.configuration.RemoteStoreConfigurationBuilder;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.junit.Assert;
 import org.junit.Ignore;
 import org.junit.Test;

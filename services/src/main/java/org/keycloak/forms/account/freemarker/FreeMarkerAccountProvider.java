@@ -16,7 +16,7 @@
  */
 package org.keycloak.forms.account.freemarker;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.events.Event;
 import org.keycloak.forms.account.AccountPages;
 import org.keycloak.forms.account.AccountProvider;

@@ -18,7 +18,7 @@
 package org.keycloak.testsuite.util;
 
 import org.apache.commons.configuration.PropertiesConfiguration;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.constants.GenericConstants;
 import org.keycloak.common.constants.KerberosConstants;
 import org.keycloak.models.LDAPConstants;

@@ -40,7 +40,7 @@ import org.keycloak.sessions.AuthenticationSessionProviderFactory;
 import java.util.Map;
 import java.util.Map.Entry;
 import java.util.concurrent.ConcurrentHashMap;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  * @author <a href="mailto:mposolda@redhat.com">Marek Posolda</a>

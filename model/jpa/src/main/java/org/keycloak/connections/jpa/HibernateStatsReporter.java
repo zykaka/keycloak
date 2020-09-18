@@ -23,7 +23,7 @@ import org.hibernate.stat.CollectionStatistics;
 import org.hibernate.stat.EntityStatistics;
 import org.hibernate.stat.QueryStatistics;
 import org.hibernate.stat.Statistics;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.timer.ScheduledTask;
 

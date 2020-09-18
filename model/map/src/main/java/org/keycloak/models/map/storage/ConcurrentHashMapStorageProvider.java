@@ -29,7 +29,7 @@ import java.util.EnumSet;
 import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.logging.Level;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  *

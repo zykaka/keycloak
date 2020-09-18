@@ -21,7 +21,7 @@ import org.apache.catalina.Manager;
 import org.apache.catalina.Session;
 import org.apache.catalina.connector.Request;
 import org.apache.catalina.realm.GenericPrincipal;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.spi.HttpFacade;
 import org.keycloak.adapters.spi.SessionIdMapper;
 import org.keycloak.adapters.spi.SessionIdMapperUpdater;

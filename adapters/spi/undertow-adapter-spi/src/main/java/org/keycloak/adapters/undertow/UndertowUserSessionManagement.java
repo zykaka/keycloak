@@ -21,7 +21,7 @@ import io.undertow.server.session.Session;
 import io.undertow.server.session.SessionConfig;
 import io.undertow.server.session.SessionListener;
 import io.undertow.server.session.SessionManager;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import java.util.List;
 import java.util.Set;

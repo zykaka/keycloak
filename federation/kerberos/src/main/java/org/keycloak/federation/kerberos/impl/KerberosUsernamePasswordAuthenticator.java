@@ -17,7 +17,7 @@
 
 package org.keycloak.federation.kerberos.impl;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.KerberosJdkProvider;
 import org.keycloak.federation.kerberos.CommonKerberosConfig;
 import org.keycloak.models.ModelException;

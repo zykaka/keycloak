@@ -17,7 +17,7 @@
 
 package org.keycloak.migration;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
 * @author <a href="mailto:bill@burkecentral.com">Bill Burke</a>

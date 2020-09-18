@@ -26,7 +26,7 @@ import org.keycloak.adapters.saml.SamlDeploymentContext;
 import org.keycloak.adapters.spi.InMemorySessionIdMapper;
 import org.keycloak.adapters.spi.SessionIdMapper;
 import org.keycloak.adapters.spi.SessionIdMapperUpdater;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.wildfly.security.http.HttpAuthenticationException;
 import org.wildfly.security.http.HttpServerAuthenticationMechanism;
 import org.wildfly.security.http.HttpServerAuthenticationMechanismFactory;

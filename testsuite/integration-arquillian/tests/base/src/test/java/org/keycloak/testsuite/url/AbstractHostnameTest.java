@@ -2,7 +2,7 @@ package org.keycloak.testsuite.url;
 
 import org.jboss.arquillian.container.test.api.ContainerController;
 import org.jboss.arquillian.test.api.ArquillianResource;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.testsuite.AbstractKeycloakTest;
 import org.keycloak.testsuite.arquillian.AuthServerTestEnricher;
 import org.wildfly.extras.creaper.core.online.ModelNodeResult;

@@ -27,7 +27,7 @@ import javax.ws.rs.core.MultivaluedMap;
 import javax.ws.rs.core.Response;
 
 import com.webauthn4j.WebAuthnRegistrationManager;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.WebAuthnConstants;
 import org.keycloak.authentication.CredentialRegistrator;
 import org.keycloak.authentication.InitiatedActionSupport;

@@ -25,7 +25,7 @@ import java.util.Optional;
 import java.util.Properties;
 import javax.servlet.ServletContext;
 import org.jboss.dmr.ModelNode;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.resteasy.spi.ResteasyProviderFactory;
 import org.keycloak.Config;
 import org.keycloak.common.util.Resteasy;

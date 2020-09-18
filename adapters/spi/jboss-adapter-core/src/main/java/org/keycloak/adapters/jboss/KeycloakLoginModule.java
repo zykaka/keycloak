@@ -17,7 +17,7 @@
 
 package org.keycloak.adapters.jboss;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.security.SimpleGroup;
 import org.jboss.security.SimplePrincipal;
 import org.jboss.security.auth.callback.ObjectCallback;

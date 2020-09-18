@@ -1,6 +1,6 @@
 package org.keycloak.vault;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import javax.annotation.Nonnull;
 import java.io.IOException;

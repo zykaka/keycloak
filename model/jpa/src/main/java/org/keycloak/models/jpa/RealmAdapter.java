@@ -18,7 +18,7 @@
 package org.keycloak.models.jpa;
 
 import org.keycloak.Config;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.enums.SslRequired;
 import org.keycloak.common.util.MultivaluedHashMap;
 import org.keycloak.component.ComponentFactory;

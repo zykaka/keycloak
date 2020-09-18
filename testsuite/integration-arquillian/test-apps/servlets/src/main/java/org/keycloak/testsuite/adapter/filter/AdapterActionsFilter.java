@@ -18,7 +18,7 @@
 package org.keycloak.testsuite.adapter.filter;
 
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.AdapterDeploymentContext;
 import org.keycloak.adapters.KeycloakDeployment;
 import org.keycloak.adapters.rotation.JWKPublicKeyLocator;

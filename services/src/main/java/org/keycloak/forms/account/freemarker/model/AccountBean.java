@@ -17,7 +17,7 @@
 
 package org.keycloak.forms.account.freemarker.model;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.Constants;
 import org.keycloak.models.UserModel;
 

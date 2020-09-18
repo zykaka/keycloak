@@ -18,7 +18,7 @@
 package org.keycloak.testsuite.page;
 
 import org.jboss.arquillian.drone.api.annotation.Drone;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;

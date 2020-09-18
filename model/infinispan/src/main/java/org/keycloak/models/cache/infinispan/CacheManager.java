@@ -1,7 +1,7 @@
 package org.keycloak.models.cache.infinispan;
 
 import org.infinispan.Cache;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.cluster.ClusterProvider;
 import org.keycloak.models.cache.infinispan.events.InvalidationEvent;
 import org.keycloak.models.KeycloakSession;

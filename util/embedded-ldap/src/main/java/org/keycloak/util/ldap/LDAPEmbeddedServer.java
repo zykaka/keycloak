@@ -39,7 +39,7 @@ import org.apache.directory.server.ldap.LdapServer;
 import org.apache.directory.server.ldap.handlers.extended.PwdModifyHandler;
 import org.apache.directory.server.protocol.shared.transport.TcpTransport;
 import org.apache.directory.server.protocol.shared.transport.Transport;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.FindFile;
 import org.keycloak.common.util.StreamUtil;
 

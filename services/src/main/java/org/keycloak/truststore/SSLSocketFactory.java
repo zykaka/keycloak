@@ -17,7 +17,7 @@
 
 package org.keycloak.truststore;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import java.io.IOException;
 import java.net.InetAddress;

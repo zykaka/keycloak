@@ -23,8 +23,8 @@ import org.jboss.arquillian.container.test.impl.enricher.resource.URLResourcePro
 import org.jboss.arquillian.core.api.Instance;
 import org.jboss.arquillian.core.api.annotation.Inject;
 import org.jboss.arquillian.test.api.ArquillianResource;
-import org.jboss.logging.Logger;
-import org.jboss.logging.Logger.Level;
+import org.keycloak.common.Logger;
+import org.keycloak.common.Logger.Level;
 import org.keycloak.testsuite.arquillian.SuiteContext;
 import org.keycloak.testsuite.arquillian.TestContext;
 import org.keycloak.testsuite.arquillian.annotation.AppServerBrowserContext;

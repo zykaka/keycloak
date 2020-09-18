@@ -18,7 +18,7 @@
 package org.keycloak.migration.migrators;
 
 import java.util.UUID;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.migration.ModelVersion;
 import org.keycloak.models.AuthenticatorConfigModel;
 import org.keycloak.models.KeycloakSession;

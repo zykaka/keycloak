@@ -16,7 +16,7 @@ import org.jboss.arquillian.container.osgi.jmx.JMXDeployableContainer;
 import org.jboss.arquillian.container.osgi.jmx.ObjectNameFactory;
 import org.jboss.arquillian.container.osgi.karaf.managed.KarafManagedContainerConfiguration;
 import org.jboss.arquillian.container.spi.client.container.LifecycleException;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.osgi.jmx.framework.BundleStateMBean;
 import org.osgi.jmx.framework.FrameworkMBean;
 import org.osgi.jmx.framework.ServiceStateMBean;

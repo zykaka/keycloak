@@ -17,7 +17,7 @@
 
 package org.keycloak.protocol.oidc.mappers;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.Profile;
 import org.keycloak.models.ClientSessionContext;
 import org.keycloak.models.KeycloakSession;

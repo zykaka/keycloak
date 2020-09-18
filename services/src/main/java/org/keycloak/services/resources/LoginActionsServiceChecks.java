@@ -35,7 +35,7 @@ import org.keycloak.sessions.AuthenticationSessionModel;
 import org.keycloak.sessions.CommonClientSessionModel.Action;
 import java.util.Objects;
 import java.util.function.Consumer;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.sessions.RootAuthenticationSessionModel;
 
 /**

@@ -13,7 +13,7 @@ import org.keycloak.testsuite.arquillian.annotation.AuthServerContainerExclude;
 
 import javax.persistence.EntityManager;
 import java.util.List;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import static org.keycloak.testsuite.arquillian.annotation.AuthServerContainerExclude.AuthServer.REMOTE;
 

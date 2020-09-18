@@ -19,7 +19,7 @@ package org.keycloak.testsuite.services.clientpolicy.condition;
 
 import java.util.List;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.component.ComponentModel;
 import org.keycloak.models.ClientModel;
 import org.keycloak.models.KeycloakSession;

@@ -17,7 +17,7 @@
 
 package org.keycloak.services.clientregistration.policy.impl;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.component.ComponentModel;
 import org.keycloak.models.ClientModel;
 import org.keycloak.models.KeycloakSession;

@@ -17,7 +17,7 @@
 package org.keycloak.testsuite.util;
 
 import org.apache.commons.io.FileUtils;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.junit.runner.Description;
 import org.junit.runner.notification.Failure;
 import org.junit.runner.notification.RunListener;

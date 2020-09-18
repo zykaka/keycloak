@@ -17,7 +17,7 @@
 
 package org.keycloak.models.map.client;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.ClientModel;
 import org.keycloak.models.ClientProvider;
 import org.keycloak.models.KeycloakSession;

@@ -16,7 +16,7 @@
  */
 package org.keycloak.credential;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.ObjectUtil;
 import org.keycloak.common.util.Time;
 import org.keycloak.models.RequiredActionProviderModel;

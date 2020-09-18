@@ -17,7 +17,7 @@
 
 package org.keycloak.adapters;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.AuthorizationContext;
 import org.keycloak.KeycloakSecurityContext;
 import org.keycloak.adapters.authorization.PolicyEnforcer;

@@ -22,7 +22,7 @@ import java.lang.invoke.MethodHandles;
 import java.util.LinkedList;
 import java.util.List;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.models.KeycloakSession;
 

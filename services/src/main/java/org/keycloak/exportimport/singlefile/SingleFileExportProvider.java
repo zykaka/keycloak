@@ -18,7 +18,7 @@
 package org.keycloak.exportimport.singlefile;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.exportimport.ExportProvider;
 import org.keycloak.exportimport.util.ExportImportSessionTask;
 import org.keycloak.exportimport.util.ExportUtils;

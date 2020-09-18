@@ -18,7 +18,7 @@
 
 package org.keycloak.adapters.elytron;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.KeycloakPrincipal;
 import org.keycloak.KeycloakSecurityContext;
 import org.keycloak.adapters.CookieTokenStore;

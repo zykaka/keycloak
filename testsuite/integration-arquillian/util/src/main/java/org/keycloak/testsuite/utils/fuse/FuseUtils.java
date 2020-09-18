@@ -26,7 +26,7 @@ import org.apache.sshd.client.channel.ClientChannelEvent;
 import org.apache.sshd.client.future.ConnectFuture;
 import org.apache.sshd.client.session.ClientSession;
 import org.jboss.arquillian.core.spi.Validate;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.junit.Assert;
 
 import static org.hamcrest.Matchers.*;

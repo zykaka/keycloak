@@ -28,7 +28,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import javax.xml.crypto.dsig.keyinfo.KeyInfo;
 import javax.xml.crypto.dsig.keyinfo.KeyName;
 import org.apache.http.client.HttpClient;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.cloned.HttpAdapterUtils;
 import org.keycloak.adapters.cloned.HttpClientAdapterException;
 import org.keycloak.common.util.MultivaluedHashMap;

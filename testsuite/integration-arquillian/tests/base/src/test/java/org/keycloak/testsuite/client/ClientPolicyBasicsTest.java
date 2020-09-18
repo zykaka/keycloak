@@ -34,7 +34,7 @@ import javax.ws.rs.BadRequestException;
 import javax.ws.rs.core.Response;
 
 import org.hamcrest.Matchers;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;

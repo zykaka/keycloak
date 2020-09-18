@@ -17,7 +17,7 @@
 
 package org.keycloak.saml;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import org.keycloak.common.util.KeycloakUriBuilder;
 import org.keycloak.saml.common.constants.GeneralConstants;

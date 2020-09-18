@@ -26,7 +26,7 @@ import javax.servlet.ServletContext;
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.saml.AdapterConstants;
 import org.keycloak.adapters.saml.DefaultSamlDeployment;
 import org.keycloak.adapters.saml.SamlConfigResolver;

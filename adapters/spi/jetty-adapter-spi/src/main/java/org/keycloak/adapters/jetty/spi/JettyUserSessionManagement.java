@@ -17,7 +17,7 @@
 
 package org.keycloak.adapters.jetty.spi;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.spi.UserSessionManagement;
 
 import javax.servlet.http.HttpSession;

@@ -1,6 +1,6 @@
 package org.keycloak.url;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.models.RealmModel;
 import org.keycloak.urls.HostnameProvider;

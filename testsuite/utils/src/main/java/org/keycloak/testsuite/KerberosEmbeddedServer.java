@@ -34,7 +34,7 @@ import org.apache.directory.server.protocol.shared.transport.UdpTransport;
 import org.apache.directory.shared.kerberos.KerberosTime;
 import org.apache.directory.shared.kerberos.KerberosUtils;
 import org.apache.directory.shared.kerberos.codec.types.EncryptionType;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.util.ldap.LDAPEmbeddedServer;
 
 import javax.security.auth.kerberos.KerberosPrincipal;

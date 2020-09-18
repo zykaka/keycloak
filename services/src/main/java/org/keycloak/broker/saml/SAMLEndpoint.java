@@ -17,7 +17,7 @@
 
 package org.keycloak.broker.saml;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.resteasy.annotations.cache.NoCache;
 
 import org.keycloak.broker.provider.BrokeredIdentityContext;

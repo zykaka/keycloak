@@ -16,7 +16,7 @@
  */
 package org.keycloak.testsuite.utils.io;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.representations.idm.RealmRepresentation;
 import org.keycloak.util.JsonSerialization;
 import org.w3c.dom.Document;

@@ -27,7 +27,7 @@ import org.jboss.arquillian.drone.spi.event.AfterDroneEnhanced;
 import org.jboss.arquillian.graphene.proxy.GrapheneProxyInstance;
 import org.jboss.arquillian.graphene.proxy.Interceptor;
 import org.jboss.arquillian.graphene.proxy.InvocationContext;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.testsuite.util.WaitUtils;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;

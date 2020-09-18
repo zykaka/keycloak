@@ -30,7 +30,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.function.Function;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.reflections.Reflections;
 import org.keycloak.connections.jpa.entityprovider.JpaEntityProvider;
 import org.keycloak.connections.jpa.updater.JpaUpdaterProvider;

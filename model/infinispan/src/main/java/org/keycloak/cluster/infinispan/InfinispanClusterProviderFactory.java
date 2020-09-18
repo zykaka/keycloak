@@ -30,7 +30,7 @@ import org.infinispan.notifications.cachemanagerlistener.event.ViewChangedEvent;
 import org.infinispan.persistence.remote.RemoteStore;
 import org.infinispan.remoting.transport.Address;
 import org.infinispan.remoting.transport.Transport;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.cluster.ClusterProvider;
 import org.keycloak.cluster.ClusterProviderFactory;

@@ -18,7 +18,7 @@
 package org.keycloak.adapters.wildfly;
 
 import io.undertow.servlet.api.DeploymentInfo;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.AdapterDeploymentContext;
 import org.keycloak.adapters.NodesRegistrationManagement;
 import org.keycloak.adapters.undertow.KeycloakServletExtension;

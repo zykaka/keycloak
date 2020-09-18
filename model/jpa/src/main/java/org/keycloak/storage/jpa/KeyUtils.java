@@ -17,7 +17,7 @@
 package org.keycloak.storage.jpa;
 
 import java.util.regex.Pattern;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  *

@@ -19,8 +19,6 @@ package org.keycloak.common;
 
 import static org.keycloak.common.Profile.Type.DEPRECATED;
 
-import org.jboss.logging.Logger;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;

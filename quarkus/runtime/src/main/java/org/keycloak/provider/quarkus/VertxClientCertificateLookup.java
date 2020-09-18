@@ -25,7 +25,7 @@ import javax.net.ssl.SSLPeerUnverifiedException;
 import javax.net.ssl.SSLSession;
 
 import io.vertx.core.http.HttpServerRequest;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.resteasy.spi.HttpRequest;
 import org.keycloak.services.x509.X509ClientCertificateLookup;
 

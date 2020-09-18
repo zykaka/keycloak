@@ -26,7 +26,7 @@ import java.security.spec.X509EncodedKeySpec;
 
 import javax.ws.rs.core.Response;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.admin.client.Keycloak;
 import org.keycloak.admin.client.resource.ClientResource;
 import org.keycloak.common.util.Base64;

@@ -20,7 +20,7 @@ package org.keycloak.transaction;
 import javax.enterprise.inject.spi.CDI;
 import javax.transaction.TransactionManager;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.models.KeycloakSessionFactory;
 

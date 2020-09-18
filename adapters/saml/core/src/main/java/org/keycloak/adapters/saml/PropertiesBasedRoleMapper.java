@@ -25,7 +25,7 @@ import java.util.HashSet;
 import java.util.Properties;
 import java.util.Set;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.saml.config.parsers.ResourceLoader;
 
 /**

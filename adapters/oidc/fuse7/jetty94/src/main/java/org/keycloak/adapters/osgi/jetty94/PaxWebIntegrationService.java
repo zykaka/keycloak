@@ -19,7 +19,7 @@ package org.keycloak.adapters.osgi.jetty94;
 
 import org.eclipse.jetty.security.ConstraintMapping;
 import org.eclipse.jetty.util.security.Constraint;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.ops4j.pax.web.service.WebContainer;
 import org.ops4j.pax.web.service.spi.model.SecurityConstraintMappingModel;
 import org.osgi.framework.BundleContext;

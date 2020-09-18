@@ -17,7 +17,7 @@
 
 package org.keycloak.testsuite.federation.sync;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.junit.Assert;
 import org.junit.FixMethodOrder;
 import org.junit.Test;

@@ -28,7 +28,7 @@ import org.jboss.arquillian.core.spi.Validate;
 import org.jboss.arquillian.test.spi.event.suite.After;
 import org.jboss.arquillian.test.spi.event.suite.AfterSuite;
 import org.jboss.arquillian.test.spi.event.suite.Before;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.admin.client.Keycloak;
 import org.keycloak.models.Constants;
 import org.keycloak.testsuite.arquillian.annotation.InitialDcState;

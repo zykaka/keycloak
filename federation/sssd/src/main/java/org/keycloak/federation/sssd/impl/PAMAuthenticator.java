@@ -17,7 +17,7 @@
 
 package org.keycloak.federation.sssd.impl;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jvnet.libpam.PAM;
 import org.jvnet.libpam.PAMException;
 import org.jvnet.libpam.UnixUser;

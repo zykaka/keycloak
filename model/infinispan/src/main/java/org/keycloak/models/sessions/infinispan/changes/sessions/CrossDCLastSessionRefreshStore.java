@@ -19,7 +19,7 @@ package org.keycloak.models.sessions.infinispan.changes.sessions;
 
 import java.util.Map;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.cluster.ClusterProvider;
 import org.keycloak.models.KeycloakSession;
 

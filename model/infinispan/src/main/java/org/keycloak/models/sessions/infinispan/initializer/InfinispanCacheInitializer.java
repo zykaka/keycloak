@@ -23,7 +23,7 @@ import org.infinispan.commons.CacheException;
 import org.infinispan.factories.ComponentRegistry;
 import org.infinispan.manager.ClusterExecutor;
 import org.infinispan.remoting.transport.Transport;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.models.KeycloakSessionFactory;
 import org.keycloak.models.KeycloakSessionTask;

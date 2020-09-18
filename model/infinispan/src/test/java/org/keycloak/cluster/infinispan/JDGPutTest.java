@@ -34,7 +34,7 @@ import org.infinispan.client.hotrod.impl.operations.OperationsFactory;
 import org.infinispan.commons.util.CloseableIterator;
 import org.infinispan.manager.EmbeddedCacheManager;
 import org.infinispan.persistence.remote.configuration.RemoteStoreConfigurationBuilder;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.connections.infinispan.InfinispanConnectionProvider;
 import org.keycloak.models.sessions.infinispan.changes.SessionEntityWrapper;
 import org.keycloak.models.sessions.infinispan.entities.AuthenticatedClientSessionEntity;

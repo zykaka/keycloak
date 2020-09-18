@@ -17,7 +17,7 @@
 
 package org.keycloak.federation.sssd;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.component.ComponentModel;
 import org.keycloak.federation.sssd.api.Sssd;

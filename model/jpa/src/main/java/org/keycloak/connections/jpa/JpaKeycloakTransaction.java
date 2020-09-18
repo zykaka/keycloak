@@ -17,7 +17,7 @@
 
 package org.keycloak.connections.jpa;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.KeycloakTransaction;
 
 import javax.persistence.EntityManager;

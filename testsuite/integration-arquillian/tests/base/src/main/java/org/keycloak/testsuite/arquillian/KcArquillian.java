@@ -20,7 +20,7 @@ package org.keycloak.testsuite.arquillian;
 import java.util.List;
 
 import org.jboss.arquillian.junit.Arquillian;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.junit.runners.model.FrameworkMethod;
 import org.junit.runners.model.InitializationError;
 

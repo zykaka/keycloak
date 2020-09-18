@@ -30,7 +30,7 @@ import org.infinispan.commons.util.FileLookupFactory;
 import org.infinispan.configuration.parsing.ConfigurationBuilderHolder;
 import org.infinispan.configuration.parsing.ParserRegistry;
 import org.infinispan.manager.DefaultCacheManager;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.cluster.ManagedCacheManagerProvider;
 import org.keycloak.Config;
 

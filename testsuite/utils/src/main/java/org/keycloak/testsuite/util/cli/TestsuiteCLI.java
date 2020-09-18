@@ -17,7 +17,7 @@
 
 package org.keycloak.testsuite.util.cli;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.models.KeycloakSessionFactory;
 import org.keycloak.testsuite.KeycloakServer;

@@ -16,7 +16,7 @@
  */
 package org.keycloak.models.jpa;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.Base64;
 import org.keycloak.credential.CredentialModel;
 import org.keycloak.credential.UserCredentialStore;

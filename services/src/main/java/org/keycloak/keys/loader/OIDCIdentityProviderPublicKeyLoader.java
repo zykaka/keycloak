@@ -17,7 +17,7 @@
 
 package org.keycloak.keys.loader;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.broker.oidc.OIDCIdentityProviderConfig;
 import org.keycloak.common.util.KeyUtils;
 import org.keycloak.common.util.PemUtils;

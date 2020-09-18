@@ -17,7 +17,7 @@
 
 package org.keycloak.adapters.saml.config.parsers;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.saml.DefaultSamlDeployment;
 import org.keycloak.adapters.saml.RoleMappingsProviderUtils;
 import org.keycloak.adapters.saml.SamlDeployment;

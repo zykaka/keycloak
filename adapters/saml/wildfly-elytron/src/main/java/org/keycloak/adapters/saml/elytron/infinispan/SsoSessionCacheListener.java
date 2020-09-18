@@ -33,7 +33,7 @@ import org.infinispan.notifications.cachemanagerlistener.annotation.CacheStarted
 import org.infinispan.notifications.cachemanagerlistener.annotation.CacheStopped;
 import org.infinispan.notifications.cachemanagerlistener.event.CacheStartedEvent;
 import org.infinispan.notifications.cachemanagerlistener.event.CacheStoppedEvent;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  *

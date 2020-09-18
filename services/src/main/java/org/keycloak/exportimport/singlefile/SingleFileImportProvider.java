@@ -17,7 +17,7 @@
 
 package org.keycloak.exportimport.singlefile;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.exportimport.ImportProvider;
 import org.keycloak.exportimport.Strategy;

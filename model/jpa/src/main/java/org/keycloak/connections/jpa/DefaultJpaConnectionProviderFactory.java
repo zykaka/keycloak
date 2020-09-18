@@ -19,7 +19,7 @@ package org.keycloak.connections.jpa;
 
 import org.hibernate.cfg.AvailableSettings;
 import org.hibernate.engine.transaction.jta.platform.internal.AbstractJtaPlatform;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.ServerStartupError;
 import org.keycloak.common.util.StringPropertyReplacer;

@@ -23,7 +23,7 @@ import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.OAuth2Constants;
 import org.keycloak.TokenIdGenerator;
 import org.keycloak.common.util.KeycloakUriBuilder;

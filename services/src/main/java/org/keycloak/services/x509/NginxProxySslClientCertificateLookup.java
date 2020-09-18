@@ -21,8 +21,8 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-import org.jboss.logging.Logger;
-import org.jboss.logging.Logger.Level;
+import org.keycloak.common.Logger;
+import org.keycloak.common.Logger.Level;
 import org.jboss.resteasy.spi.HttpRequest;
 import org.keycloak.common.util.PemException;
 import org.keycloak.common.util.PemUtils;

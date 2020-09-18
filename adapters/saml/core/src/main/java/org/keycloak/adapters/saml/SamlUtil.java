@@ -17,7 +17,7 @@
 
 package org.keycloak.adapters.saml;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.spi.HttpFacade;
 import org.keycloak.saml.BaseSAML2BindingBuilder;
 import org.keycloak.saml.common.constants.GeneralConstants;

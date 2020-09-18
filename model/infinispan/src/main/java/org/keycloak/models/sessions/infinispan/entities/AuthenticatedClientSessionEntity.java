@@ -26,7 +26,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import org.infinispan.commons.marshall.Externalizer;
 import org.infinispan.commons.marshall.MarshallUtil;
 import org.infinispan.commons.marshall.SerializeWith;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.sessions.infinispan.changes.SessionEntityWrapper;
 import org.keycloak.models.sessions.infinispan.util.KeycloakMarshallUtil;
 import java.util.UUID;

@@ -1,7 +1,7 @@
 package org.keycloak.common.util;
 
 import java.util.regex.Pattern;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  *

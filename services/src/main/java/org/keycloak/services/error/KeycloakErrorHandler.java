@@ -1,7 +1,7 @@
 package org.keycloak.services.error;
 
 import com.fasterxml.jackson.core.JsonParseException;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.resteasy.spi.Failure;
 import org.jboss.resteasy.spi.HttpResponse;
 import org.jboss.resteasy.spi.ResteasyProviderFactory;

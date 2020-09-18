@@ -16,7 +16,7 @@
  */
 package org.keycloak.email.freemarker.beans;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.UserModel;
 
 import java.util.HashMap;

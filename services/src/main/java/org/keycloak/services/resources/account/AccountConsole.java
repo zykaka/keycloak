@@ -1,6 +1,6 @@
 package org.keycloak.services.resources.account;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.resteasy.annotations.cache.NoCache;
 import org.keycloak.common.Version;
 import org.keycloak.events.EventStoreProvider;

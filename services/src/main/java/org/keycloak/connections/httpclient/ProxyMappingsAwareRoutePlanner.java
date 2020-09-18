@@ -27,7 +27,7 @@ import org.apache.http.impl.client.BasicCredentialsProvider;
 import org.apache.http.impl.conn.DefaultRoutePlanner;
 import org.apache.http.impl.conn.DefaultSchemePortResolver;
 import org.apache.http.protocol.HttpContext;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import static org.keycloak.connections.httpclient.ProxyMappings.ProxyMapping;
 

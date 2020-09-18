@@ -18,7 +18,7 @@
 package org.keycloak.adapters.undertow;
 
 import io.undertow.security.api.SecurityContext;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.KeycloakPrincipal;
 import org.keycloak.adapters.AdapterTokenStore;
 import org.keycloak.adapters.CookieTokenStore;

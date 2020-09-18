@@ -18,7 +18,7 @@
 package org.keycloak.adapters.saml.jetty;
 
 import org.eclipse.jetty.server.Request;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.jetty.spi.JettyUserSessionManagement;
 import org.keycloak.adapters.saml.SamlDeployment;
 import org.keycloak.adapters.saml.SamlSession;

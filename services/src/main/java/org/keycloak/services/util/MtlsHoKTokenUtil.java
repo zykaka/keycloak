@@ -6,7 +6,7 @@ import java.security.NoSuchAlgorithmException;
 import java.security.cert.CertificateEncodingException;
 import java.security.cert.X509Certificate;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.resteasy.spi.HttpRequest;
 import org.keycloak.common.util.Base64Url;
 import org.keycloak.models.KeycloakSession;

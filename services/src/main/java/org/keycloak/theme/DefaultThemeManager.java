@@ -17,7 +17,7 @@
 
 package org.keycloak.theme;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.common.Version;
 import org.keycloak.common.util.StringPropertyReplacer;

@@ -22,7 +22,7 @@ import static java.util.Comparator.comparing;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.migration.ModelVersion;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.models.RealmModel;

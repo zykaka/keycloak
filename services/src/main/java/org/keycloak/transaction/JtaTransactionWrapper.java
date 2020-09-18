@@ -16,7 +16,7 @@
  */
 package org.keycloak.transaction;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.KeycloakSessionFactory;
 import org.keycloak.models.KeycloakTransaction;
 import org.keycloak.provider.ExceptionConverter;

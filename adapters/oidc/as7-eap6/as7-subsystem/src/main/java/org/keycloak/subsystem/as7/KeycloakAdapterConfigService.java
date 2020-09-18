@@ -21,7 +21,7 @@ import org.jboss.as.server.deployment.DeploymentUnit;
 import org.jboss.as.web.deployment.WarMetaData;
 import org.jboss.dmr.ModelNode;
 import org.jboss.dmr.Property;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.metadata.web.jboss.JBossWebMetaData;
 
 import java.util.HashMap;

@@ -19,7 +19,7 @@ package org.keycloak.testsuite.util;
 
 import com.icegreen.greenmail.util.GreenMail;
 import com.icegreen.greenmail.util.ServerSetup;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import javax.mail.MessagingException;
 import javax.mail.internet.MimeMessage;

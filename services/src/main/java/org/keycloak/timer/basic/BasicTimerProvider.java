@@ -17,7 +17,7 @@
 
 package org.keycloak.timer.basic;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.services.scheduled.ScheduledTaskRunner;
 import org.keycloak.timer.ScheduledTask;

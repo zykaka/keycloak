@@ -1,6 +1,6 @@
 package org.keycloak.protocol.docker.installation;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.models.ClientModel;
 import org.keycloak.models.KeycloakSession;

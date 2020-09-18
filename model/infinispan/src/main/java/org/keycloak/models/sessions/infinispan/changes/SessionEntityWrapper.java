@@ -30,7 +30,7 @@ import org.infinispan.commons.marshall.MarshallUtil;
 import org.infinispan.commons.marshall.SerializeWith;
 import org.keycloak.models.sessions.infinispan.entities.SessionEntity;
 import java.util.HashMap;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  * @author <a href="mailto:mposolda@redhat.com">Marek Posolda</a>
@@ -191,7 +191,7 @@ public class SessionEntityWrapper<S extends SessionEntity> {
                 return res;
             } else {
                 UUID sessionVersion = new UUID(input.readLong(), input.readLong());
-                HashMap<String, String> map = MarshallUtil.unmarshallMap(input, HashMap::new);
+                HashMap<String, String> map = MarshallUtil.<String, String, HashMap<String, String>>unmarshallMap(input, HashMap::new);
                 final SessionEntity entity = (SessionEntity) input.readObject();
                 if (log.isTraceEnabled()) {
                     log.tracef("Found entity locally: entity=%s, version=%s, metadata=%s", entity, sessionVersion, map);

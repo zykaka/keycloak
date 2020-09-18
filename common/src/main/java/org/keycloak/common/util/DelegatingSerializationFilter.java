@@ -17,7 +17,7 @@
  */
 package org.keycloak.common.util;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import java.io.ObjectInputStream;
 import java.lang.reflect.InvocationTargetException;

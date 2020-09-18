@@ -18,7 +18,7 @@
 package org.keycloak.events.log;
 
 import org.keycloak.common.util.StackUtil;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.events.Event;
 import org.keycloak.events.EventListenerProvider;
 import org.keycloak.events.admin.AdminEvent;

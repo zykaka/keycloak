@@ -30,7 +30,7 @@ import org.infinispan.remoting.transport.LocalModeAddress;
 import org.infinispan.remoting.transport.Transport;
 import org.infinispan.remoting.transport.jgroups.JGroupsAddress;
 import org.infinispan.remoting.transport.jgroups.JGroupsTransport;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jgroups.Event;
 import org.jgroups.JChannel;
 import org.jgroups.stack.IpAddress;

@@ -24,7 +24,7 @@ import org.infinispan.Cache;
 import org.infinispan.client.hotrod.Flag;
 import org.infinispan.client.hotrod.RemoteCache;
 import org.infinispan.commons.api.BasicCache;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.connections.infinispan.InfinispanConnectionProvider;
 import org.keycloak.models.CodeToTokenStoreProvider;

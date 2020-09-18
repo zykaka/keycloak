@@ -18,7 +18,7 @@ package org.keycloak.testsuite.arquillian.tomcat.container;
 
 import org.jboss.arquillian.container.test.spi.client.deployment.ApplicationArchiveProcessor;
 import org.jboss.arquillian.test.spi.TestClass;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.shrinkwrap.api.Archive;
 import org.jboss.shrinkwrap.api.spec.WebArchive;
 import org.keycloak.testsuite.adapter.servlet.TomcatConfigApplication;

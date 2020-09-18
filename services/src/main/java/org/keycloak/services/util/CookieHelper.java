@@ -17,7 +17,7 @@
 
 package org.keycloak.services.util;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.resteasy.spi.HttpResponse;
 import org.keycloak.common.util.Resteasy;
 import org.keycloak.common.util.ServerCookie;

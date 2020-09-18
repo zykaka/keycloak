@@ -24,7 +24,7 @@ import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.nio.charset.Charset;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.OAuth2Constants;
 import org.keycloak.common.util.StreamUtil;
 import org.keycloak.testsuite.util.OAuthClient;

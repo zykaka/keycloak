@@ -19,7 +19,7 @@ package org.keycloak.testsuite.arquillian.undertow.lb;
 
 import org.arquillian.undertow.UndertowContainerConfiguration;
 import org.jboss.arquillian.container.spi.ConfigurationException;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  * @author <a href="mailto:mposolda@redhat.com">Marek Posolda</a>

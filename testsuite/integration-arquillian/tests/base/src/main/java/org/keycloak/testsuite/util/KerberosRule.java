@@ -21,7 +21,7 @@ import java.io.File;
 import java.net.URL;
 import java.util.Properties;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.testsuite.client.resources.TestingResource;
 import org.keycloak.testsuite.KerberosEmbeddedServer;
 import org.keycloak.util.ldap.LDAPEmbeddedServer;

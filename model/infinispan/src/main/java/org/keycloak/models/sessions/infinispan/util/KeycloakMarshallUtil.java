@@ -30,7 +30,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 import org.infinispan.commons.marshall.Externalizer;
 import org.infinispan.commons.marshall.MarshallUtil;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  *

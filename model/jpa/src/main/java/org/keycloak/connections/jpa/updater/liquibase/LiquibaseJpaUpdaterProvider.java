@@ -40,7 +40,7 @@ import liquibase.statement.core.UpdateStatement;
 import liquibase.structure.core.Column;
 import liquibase.structure.core.Table;
 import liquibase.util.StreamUtil;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.reflections.Reflections;
 import org.keycloak.connections.jpa.entityprovider.JpaEntityProvider;
 import org.keycloak.connections.jpa.updater.JpaUpdaterProvider;

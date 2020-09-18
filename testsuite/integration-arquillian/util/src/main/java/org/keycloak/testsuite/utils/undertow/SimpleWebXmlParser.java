@@ -36,7 +36,7 @@ import io.undertow.servlet.api.SecurityInfo;
 import io.undertow.servlet.api.ServletInfo;
 import io.undertow.servlet.api.ServletSessionConfig;
 import io.undertow.servlet.api.WebResourceCollection;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;

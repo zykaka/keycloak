@@ -16,7 +16,7 @@
  */
 package org.keycloak.services.resources;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.ClientConnection;
 import org.keycloak.common.Version;
 import org.keycloak.common.util.Base64Url;

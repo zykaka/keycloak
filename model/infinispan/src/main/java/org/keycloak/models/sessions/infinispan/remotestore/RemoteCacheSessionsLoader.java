@@ -31,7 +31,7 @@ import org.infinispan.client.hotrod.impl.operations.IterationStartResponse;
 import org.infinispan.client.hotrod.impl.operations.OperationsFactory;
 import org.infinispan.commons.util.CloseableIterator;
 import org.infinispan.context.Flag;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.connections.infinispan.InfinispanConnectionProvider;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.models.sessions.infinispan.initializer.BaseCacheInitializer;

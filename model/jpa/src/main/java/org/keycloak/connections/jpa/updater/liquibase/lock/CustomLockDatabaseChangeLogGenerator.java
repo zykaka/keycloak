@@ -29,7 +29,7 @@ import liquibase.sql.UnparsedSql;
 import liquibase.sqlgenerator.SqlGeneratorChain;
 import liquibase.sqlgenerator.core.LockDatabaseChangeLogGenerator;
 import liquibase.statement.core.LockDatabaseChangeLogStatement;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  * We use "SELECT FOR UPDATE" pessimistic locking (Same algorithm like Hibernate LockMode.PESSIMISTIC_WRITE )

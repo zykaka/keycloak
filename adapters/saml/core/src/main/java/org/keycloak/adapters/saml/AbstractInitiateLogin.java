@@ -18,7 +18,7 @@
 package org.keycloak.adapters.saml;
 
 import org.keycloak.adapters.saml.SamlDeployment.IDP.SingleSignOnService;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.spi.AuthChallenge;
 import org.keycloak.adapters.spi.HttpFacade;
 import org.keycloak.saml.BaseSAML2BindingBuilder;

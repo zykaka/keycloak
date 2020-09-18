@@ -17,7 +17,7 @@
 
 package org.keycloak.services.clientpolicy;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 public class ClientPolicyLogger {
 

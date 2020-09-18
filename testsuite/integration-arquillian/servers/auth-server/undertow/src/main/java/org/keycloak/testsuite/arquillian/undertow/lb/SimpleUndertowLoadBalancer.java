@@ -38,7 +38,7 @@ import io.undertow.server.handlers.proxy.ProxyConnection;
 import io.undertow.server.handlers.proxy.ProxyHandler;
 import io.undertow.util.AttachmentKey;
 import io.undertow.util.Headers;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.reflections.Reflections;
 import org.keycloak.testsuite.utils.tls.TLSUtils;
 

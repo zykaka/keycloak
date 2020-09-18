@@ -17,7 +17,7 @@
 
 package org.keycloak.testsuite.federation.ldap;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.ClassRule;

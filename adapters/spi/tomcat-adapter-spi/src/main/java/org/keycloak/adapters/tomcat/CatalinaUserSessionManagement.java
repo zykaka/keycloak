@@ -22,7 +22,7 @@ import org.apache.catalina.Session;
 import org.apache.catalina.SessionEvent;
 import org.apache.catalina.SessionListener;
 import org.apache.catalina.realm.GenericPrincipal;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import java.io.IOException;
 import java.util.List;

@@ -17,7 +17,7 @@
 
 package org.keycloak.models.dblock;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.models.RealmProvider;
 import org.keycloak.models.RealmProviderFactory;

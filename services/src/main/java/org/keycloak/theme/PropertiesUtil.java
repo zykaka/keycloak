@@ -17,7 +17,7 @@
 
 package org.keycloak.theme;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import java.io.BufferedReader;
 import java.io.IOException;

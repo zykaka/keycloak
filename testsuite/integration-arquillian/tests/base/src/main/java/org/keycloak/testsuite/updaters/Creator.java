@@ -43,7 +43,7 @@ import java.util.Objects;
 import java.util.concurrent.atomic.AtomicBoolean;
 import javax.ws.rs.core.Response;
 import org.hamcrest.Matchers;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.junit.Assert;
 import static org.keycloak.testsuite.admin.ApiUtil.getCreatedId;
 

@@ -20,7 +20,7 @@ package org.keycloak.models.sessions.infinispan.entities;
 import org.infinispan.commons.marshall.Externalizer;
 import org.infinispan.commons.marshall.MarshallUtil;
 import org.infinispan.commons.marshall.SerializeWith;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.UserSessionModel;
 import org.keycloak.models.UserSessionModel.State;
 import org.keycloak.models.sessions.infinispan.changes.SessionEntityWrapper;

@@ -17,7 +17,7 @@
 
 package org.keycloak.federation.kerberos;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.common.constants.KerberosConstants;
 import org.keycloak.component.ComponentModel;

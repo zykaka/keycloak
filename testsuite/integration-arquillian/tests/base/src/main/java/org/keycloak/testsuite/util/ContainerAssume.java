@@ -17,7 +17,7 @@
 
 package org.keycloak.testsuite.util;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.junit.Assume;
 import org.keycloak.testsuite.arquillian.AuthServerTestEnricher;
 

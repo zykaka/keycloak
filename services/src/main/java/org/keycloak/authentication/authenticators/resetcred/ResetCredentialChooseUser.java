@@ -18,7 +18,7 @@
 package org.keycloak.authentication.authenticators.resetcred;
 
 import org.keycloak.authentication.actiontoken.DefaultActionTokenKey;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.authentication.*;
 import org.keycloak.authentication.authenticators.broker.AbstractIdpAuthenticator;

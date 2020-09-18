@@ -25,7 +25,7 @@ import org.jboss.arquillian.drone.spi.event.BeforeDroneInstantiated;
 import org.jboss.arquillian.drone.webdriver.configuration.WebDriverConfiguration;
 import org.jboss.arquillian.drone.webdriver.spi.BrowserCapabilities;
 import org.jboss.arquillian.drone.webdriver.spi.BrowserCapabilitiesRegistry;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.openqa.selenium.Capabilities;
 import org.openqa.selenium.phantomjs.PhantomJSDriverService;
 import org.openqa.selenium.remote.CapabilityType;

@@ -31,7 +31,7 @@ import io.undertow.servlet.api.ListenerInfo;
 import io.undertow.servlet.api.LoginConfig;
 import io.undertow.servlet.api.ServletSessionConfig;
 import io.undertow.servlet.util.ImmediateInstanceHandle;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.AdapterDeploymentContext;
 import org.keycloak.adapters.KeycloakConfigResolver;
 import org.keycloak.adapters.KeycloakDeployment;

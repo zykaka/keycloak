@@ -17,7 +17,7 @@
 
 package org.keycloak.services.clientpolicy.condition;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.component.ComponentModel;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.representations.JsonWebToken;

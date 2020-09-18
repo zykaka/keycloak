@@ -17,7 +17,7 @@
 
 package org.keycloak.storage.ldap.idm.store.ldap;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.Time;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.models.LDAPConstants;

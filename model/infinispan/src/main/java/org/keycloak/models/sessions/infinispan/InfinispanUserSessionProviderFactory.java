@@ -20,7 +20,7 @@ package org.keycloak.models.sessions.infinispan;
 import org.infinispan.Cache;
 import org.infinispan.client.hotrod.RemoteCache;
 import org.infinispan.persistence.remote.RemoteStore;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.cluster.ClusterProvider;
 import org.keycloak.common.util.Environment;

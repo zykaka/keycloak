@@ -31,7 +31,7 @@ import java.util.Iterator;
 import java.util.Set;
 import javax.xml.datatype.DatatypeConstants;
 import javax.xml.datatype.XMLGregorianCalendar;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  * Conditions validation as per Section 2.5 of https://docs.oasis-open.org/security/saml/v2.0/saml-core-2.0-os.pdf

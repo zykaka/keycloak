@@ -1,6 +1,6 @@
 package org.keycloak.protocol.docker;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.Profile;
 import org.keycloak.events.EventBuilder;
 import org.keycloak.events.EventType;

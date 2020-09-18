@@ -22,7 +22,7 @@ import org.infinispan.client.hotrod.RemoteCache;
 import org.infinispan.client.hotrod.exceptions.HotRodClientException;
 import org.infinispan.context.Flag;
 import org.infinispan.stream.CacheCollectors;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.cluster.ClusterProvider;
 import org.keycloak.common.util.Retry;
 import org.keycloak.common.util.Time;

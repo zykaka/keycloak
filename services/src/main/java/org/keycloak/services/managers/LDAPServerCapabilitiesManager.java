@@ -19,7 +19,7 @@ package org.keycloak.services.managers;
 import java.util.Collections;
 import java.util.Set;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.MultivaluedHashMap;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.models.LDAPConstants;

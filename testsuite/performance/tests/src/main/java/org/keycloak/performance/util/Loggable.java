@@ -1,6 +1,6 @@
 package org.keycloak.performance.util;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  *

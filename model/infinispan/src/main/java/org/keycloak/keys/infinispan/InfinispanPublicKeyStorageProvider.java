@@ -26,7 +26,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
 
 import org.infinispan.Cache;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.cluster.ClusterProvider;
 import org.keycloak.common.util.Time;
 import org.keycloak.crypto.KeyWrapper;

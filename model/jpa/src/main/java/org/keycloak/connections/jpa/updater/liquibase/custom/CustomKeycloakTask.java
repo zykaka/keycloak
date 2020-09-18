@@ -28,7 +28,7 @@ import liquibase.snapshot.SnapshotGeneratorFactory;
 import liquibase.statement.SqlStatement;
 import liquibase.structure.core.Schema;
 import liquibase.structure.core.Table;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.connections.jpa.updater.liquibase.LiquibaseJpaUpdaterProvider;
 import org.keycloak.connections.jpa.updater.liquibase.ThreadLocalSessionContext;
 import org.keycloak.models.KeycloakSession;

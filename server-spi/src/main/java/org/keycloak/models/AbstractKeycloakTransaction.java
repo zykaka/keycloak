@@ -17,7 +17,7 @@
 
 package org.keycloak.models;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  * Handles some common transaction logic related to start, rollback-only etc.

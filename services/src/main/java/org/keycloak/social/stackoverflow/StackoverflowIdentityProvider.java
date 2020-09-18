@@ -17,7 +17,7 @@
 package org.keycloak.social.stackoverflow;
 
 import com.fasterxml.jackson.databind.JsonNode;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.broker.oidc.AbstractOAuth2IdentityProvider;
 import org.keycloak.broker.oidc.mappers.AbstractJsonUserAttributeMapper;
 import org.keycloak.broker.provider.BrokeredIdentityContext;

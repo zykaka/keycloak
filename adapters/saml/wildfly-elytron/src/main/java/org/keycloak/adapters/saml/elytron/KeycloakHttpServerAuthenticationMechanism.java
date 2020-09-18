@@ -24,7 +24,7 @@ import java.util.regex.Pattern;
 import javax.security.auth.callback.CallbackHandler;
 import javax.servlet.http.HttpServletResponse;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.saml.SamlAuthenticator;
 import org.keycloak.adapters.saml.SamlDeployment;
 import org.keycloak.adapters.saml.SamlDeploymentContext;

@@ -21,7 +21,7 @@ import liquibase.Liquibase;
 import liquibase.database.Database;
 import liquibase.database.DatabaseFactory;
 import liquibase.database.jvm.JdbcConnection;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import javax.annotation.Resource;
 import javax.servlet.ServletException;

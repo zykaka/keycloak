@@ -18,7 +18,7 @@
 package org.keycloak.email;
 
 import com.sun.mail.smtp.SMTPMessage;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.models.UserModel;
 import org.keycloak.services.ServicesLogger;

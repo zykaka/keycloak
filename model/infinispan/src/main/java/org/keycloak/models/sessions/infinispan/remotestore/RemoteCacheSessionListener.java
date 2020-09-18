@@ -28,7 +28,7 @@ import org.infinispan.client.hotrod.event.ClientCacheEntryModifiedEvent;
 import org.infinispan.client.hotrod.event.ClientCacheEntryRemovedEvent;
 import org.infinispan.client.hotrod.event.ClientEvent;
 import org.infinispan.context.Flag;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.connections.infinispan.TopologyInfo;
 import org.keycloak.executors.ExecutorsProvider;
 import org.keycloak.models.KeycloakSession;

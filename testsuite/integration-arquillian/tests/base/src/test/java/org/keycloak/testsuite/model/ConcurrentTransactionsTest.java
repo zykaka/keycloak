@@ -17,7 +17,7 @@
 
 package org.keycloak.testsuite.model;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.junit.Assert;
 import org.junit.Test;
 import org.keycloak.models.ClientModel;

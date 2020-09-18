@@ -28,7 +28,7 @@ import java.util.Set;
 
 import javax.naming.AuthenticationException;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.constants.KerberosConstants;
 import org.keycloak.component.ComponentModel;
 import org.keycloak.credential.CredentialAuthentication;

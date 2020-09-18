@@ -17,7 +17,7 @@
 
 package org.keycloak.models.sessions.infinispan.initializer;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  * @author <a href="mailto:mposolda@redhat.com">Marek Posolda</a>

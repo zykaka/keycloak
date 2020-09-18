@@ -17,7 +17,7 @@
 package org.keycloak.subsystem.server.logging;
 
 import org.jboss.logging.BasicLogger;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.logging.annotations.MessageLogger;
 
 /**

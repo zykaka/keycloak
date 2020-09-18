@@ -17,7 +17,7 @@
 package org.keycloak.models.cache.infinispan.authorization;
 
 import org.infinispan.Cache;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.cache.infinispan.CacheManager;
 import org.keycloak.models.cache.infinispan.RealmCacheManager;
 import org.keycloak.models.cache.infinispan.authorization.events.AuthorizationCacheInvalidationEvent;

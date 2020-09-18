@@ -17,7 +17,7 @@
 
 package org.keycloak.models;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.credential.OTPCredentialModel;
 import org.keycloak.models.utils.Base32;
 import org.keycloak.models.utils.HmacOTP;

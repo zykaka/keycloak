@@ -25,7 +25,7 @@ import javax.xml.parsers.SAXParserFactory;
 import liquibase.database.core.MariaDBDatabase;
 import liquibase.database.core.MySQLDatabase;
 import liquibase.database.core.PostgresDatabase;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.connections.jpa.JpaConnectionProvider;
 import org.keycloak.connections.jpa.JpaConnectionProviderFactory;

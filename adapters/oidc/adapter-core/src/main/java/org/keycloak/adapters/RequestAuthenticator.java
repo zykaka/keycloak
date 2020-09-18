@@ -19,7 +19,7 @@ package org.keycloak.adapters;
 
 import java.util.Collections;
 import java.util.List;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.KeycloakPrincipal;
 import org.keycloak.adapters.spi.AuthChallenge;
 import org.keycloak.adapters.spi.AuthOutcome;

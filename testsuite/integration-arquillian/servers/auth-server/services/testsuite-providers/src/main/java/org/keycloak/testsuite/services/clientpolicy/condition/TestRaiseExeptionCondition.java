@@ -17,7 +17,7 @@
 
 package org.keycloak.testsuite.services.clientpolicy.condition;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.OAuthErrorException;
 import org.keycloak.component.ComponentModel;
 import org.keycloak.models.KeycloakSession;

@@ -16,7 +16,7 @@
  */
 package org.keycloak.broker.saml;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.broker.provider.*;
 import org.keycloak.broker.provider.util.SimpleHttp;
 import org.keycloak.common.util.PemUtils;

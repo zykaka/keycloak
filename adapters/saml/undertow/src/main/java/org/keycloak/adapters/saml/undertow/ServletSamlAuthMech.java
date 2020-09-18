@@ -38,7 +38,7 @@ import javax.servlet.ServletResponse;
 import java.io.IOException;
 import java.lang.reflect.*;
 import java.util.Map;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  * @author <a href="mailto:bill@burkecentral.com">Bill Burke</a>

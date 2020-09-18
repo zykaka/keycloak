@@ -29,7 +29,7 @@ import io.undertow.servlet.api.LoginConfig;
 import io.undertow.servlet.api.SecurityConstraint;
 import io.undertow.servlet.api.ServletSessionConfig;
 import io.undertow.servlet.api.WebResourceCollection;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.saml.AdapterConstants;
 import org.keycloak.adapters.saml.DefaultSamlDeployment;
 import org.keycloak.adapters.saml.SamlConfigResolver;

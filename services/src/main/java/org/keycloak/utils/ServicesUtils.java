@@ -17,7 +17,7 @@
 
 package org.keycloak.utils;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.executors.ExecutorsProvider;
 import org.keycloak.models.GroupModel;
 import org.keycloak.models.KeycloakSession;

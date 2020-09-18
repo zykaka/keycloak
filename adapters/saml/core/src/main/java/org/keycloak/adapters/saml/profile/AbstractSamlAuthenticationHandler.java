@@ -19,7 +19,7 @@ package org.keycloak.adapters.saml.profile;
 
 import static org.keycloak.adapters.saml.SamlPrincipal.DEFAULT_ROLE_ATTRIBUTE_NAME;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.saml.AbstractInitiateLogin;
 import org.keycloak.adapters.saml.OnSessionCreated;
 import org.keycloak.adapters.saml.SamlAuthenticationError;

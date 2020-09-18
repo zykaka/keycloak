@@ -31,7 +31,7 @@ import org.infinispan.configuration.cache.Configuration;
 import org.infinispan.loaders.CacheLoaderManager;
 import org.infinispan.loaders.remote.RemoteCacheStore;
 import org.infinispan.manager.EmbeddedCacheManager;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  *

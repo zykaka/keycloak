@@ -61,7 +61,7 @@ import java.util.UUID;
 import javax.ws.rs.core.MultivaluedHashMap;
 import javax.ws.rs.core.MultivaluedMap;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import static org.hamcrest.Matchers.*;
 import static org.junit.Assert.assertThat;
 import static org.junit.Assert.assertTrue;

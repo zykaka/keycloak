@@ -41,7 +41,7 @@ import org.infinispan.remoting.transport.jgroups.JGroupsTransport;
 import org.infinispan.transaction.LockingMode;
 import org.infinispan.transaction.TransactionMode;
 import org.infinispan.transaction.lookup.EmbeddedTransactionManagerLookup;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jgroups.JChannel;
 import org.keycloak.Config;
 import org.keycloak.cluster.ManagedCacheManagerProvider;

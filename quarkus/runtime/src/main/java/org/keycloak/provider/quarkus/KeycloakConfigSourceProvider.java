@@ -24,7 +24,7 @@ import java.util.List;
 
 import org.eclipse.microprofile.config.spi.ConfigSource;
 import org.eclipse.microprofile.config.spi.ConfigSourceProvider;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 public class KeycloakConfigSourceProvider implements ConfigSourceProvider {
 

@@ -20,7 +20,7 @@ package org.keycloak.connections.jpa.updater.liquibase.lock;
 import liquibase.Liquibase;
 import liquibase.exception.DatabaseException;
 import liquibase.exception.LiquibaseException;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.Retry;
 import org.keycloak.connections.jpa.JpaConnectionProvider;
 import org.keycloak.connections.jpa.JpaConnectionProviderFactory;

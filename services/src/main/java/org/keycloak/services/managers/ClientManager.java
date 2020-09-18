@@ -18,7 +18,7 @@ package org.keycloak.services.managers;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.authentication.ClientAuthenticator;
 import org.keycloak.authentication.ClientAuthenticatorFactory;
 import org.keycloak.common.constants.ServiceAccountConstants;

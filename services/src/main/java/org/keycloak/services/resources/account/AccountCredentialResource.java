@@ -1,7 +1,7 @@
 package org.keycloak.services.resources.account;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.resteasy.annotations.cache.NoCache;
 import org.keycloak.authentication.Authenticator;
 import org.keycloak.authentication.AuthenticatorFactory;

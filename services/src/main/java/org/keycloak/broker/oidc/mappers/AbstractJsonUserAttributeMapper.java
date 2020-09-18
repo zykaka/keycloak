@@ -18,7 +18,7 @@
 package org.keycloak.broker.oidc.mappers;
 
 import com.fasterxml.jackson.databind.JsonNode;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.broker.oidc.OIDCIdentityProvider;
 import org.keycloak.broker.provider.AbstractIdentityProviderMapper;
 import org.keycloak.broker.provider.BrokeredIdentityContext;

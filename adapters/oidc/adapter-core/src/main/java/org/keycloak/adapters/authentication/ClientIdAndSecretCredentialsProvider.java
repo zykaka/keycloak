@@ -17,7 +17,7 @@
 
 package org.keycloak.adapters.authentication;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.OAuth2Constants;
 import org.keycloak.adapters.KeycloakDeployment;
 import org.keycloak.representations.idm.CredentialRepresentation;

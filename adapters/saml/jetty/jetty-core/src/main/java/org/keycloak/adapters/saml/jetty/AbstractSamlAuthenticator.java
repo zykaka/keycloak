@@ -29,7 +29,7 @@ import org.eclipse.jetty.server.Authentication;
 import org.eclipse.jetty.server.Request;
 import org.eclipse.jetty.server.UserIdentity;
 import org.eclipse.jetty.server.handler.ContextHandler;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.jetty.spi.JettyHttpFacade;
 import org.keycloak.adapters.jetty.spi.JettyUserSessionManagement;
 import org.keycloak.adapters.saml.AdapterConstants;

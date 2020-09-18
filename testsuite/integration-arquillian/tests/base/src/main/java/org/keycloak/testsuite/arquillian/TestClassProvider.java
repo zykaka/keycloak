@@ -7,7 +7,7 @@ import io.undertow.server.handlers.resource.Resource;
 import io.undertow.server.handlers.resource.ResourceChangeListener;
 import io.undertow.server.handlers.resource.ResourceManager;
 import io.undertow.server.handlers.resource.URLResource;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import java.net.URL;
 

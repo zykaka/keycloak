@@ -39,7 +39,7 @@ import java.io.ByteArrayOutputStream;
 import java.util.function.Consumer;
 import java.util.logging.Level;
 import javax.xml.stream.XMLStreamWriter;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.junit.Assert;
 import org.w3c.dom.Document;
 

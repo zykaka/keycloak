@@ -16,7 +16,7 @@
  */
 package org.keycloak.headers;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.BrowserSecurityHeaders;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.models.RealmModel;

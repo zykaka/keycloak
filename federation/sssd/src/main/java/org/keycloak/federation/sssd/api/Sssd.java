@@ -22,7 +22,7 @@ import org.freedesktop.dbus.DBusConnection;
 import org.freedesktop.dbus.Variant;
 import org.freedesktop.dbus.exceptions.DBusException;
 import org.freedesktop.sssd.infopipe.InfoPipe;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.UserModel;
 
 import java.util.Arrays;

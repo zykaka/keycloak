@@ -2,7 +2,7 @@ package org.keycloak.testsuite.utils.arquillian.tomcat;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.io.IOUtils;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.shrinkwrap.api.Archive;
 import org.jboss.shrinkwrap.api.Node;
 import org.jboss.shrinkwrap.api.asset.ClassAsset;

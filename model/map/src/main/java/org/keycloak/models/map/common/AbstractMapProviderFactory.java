@@ -20,7 +20,7 @@ import org.keycloak.Config.Scope;
 import org.keycloak.models.KeycloakSessionFactory;
 import org.keycloak.provider.Provider;
 import org.keycloak.provider.ProviderFactory;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  *

@@ -47,7 +47,7 @@ import javax.xml.xpath.XPathConstants;
 import javax.xml.xpath.XPathExpression;
 import javax.xml.xpath.XPathExpressionException;
 import javax.xml.xpath.XPathFactory;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import static org.keycloak.testsuite.arquillian.AppServerTestEnricher.isRelative;
 import static org.keycloak.testsuite.arquillian.AppServerTestEnricher.isTomcatAppServer;
 import static org.keycloak.testsuite.arquillian.AppServerTestEnricher.isWLSAppServer;

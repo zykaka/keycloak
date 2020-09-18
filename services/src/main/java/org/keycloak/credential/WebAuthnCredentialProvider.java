@@ -23,7 +23,7 @@ import java.util.stream.Collectors;
 
 import com.webauthn4j.WebAuthnAuthenticationManager;
 import com.webauthn4j.converter.util.ObjectConverter;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.authentication.requiredactions.WebAuthnRegisterFactory;
 import org.keycloak.common.util.Base64;
 import org.keycloak.common.util.Time;

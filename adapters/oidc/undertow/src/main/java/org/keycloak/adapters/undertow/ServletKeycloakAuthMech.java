@@ -21,7 +21,7 @@ import io.undertow.server.HttpServerExchange;
 import io.undertow.servlet.api.ConfidentialPortManager;
 import io.undertow.servlet.handlers.ServletRequestContext;
 import io.undertow.util.Headers;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.AdapterDeploymentContext;
 import org.keycloak.adapters.AdapterTokenStore;
 import org.keycloak.adapters.KeycloakDeployment;

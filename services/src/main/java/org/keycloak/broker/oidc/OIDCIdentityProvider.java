@@ -17,7 +17,7 @@
 package org.keycloak.broker.oidc;
 
 import com.fasterxml.jackson.databind.JsonNode;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.OAuth2Constants;
 import org.keycloak.OAuthErrorException;
 import org.keycloak.broker.oidc.mappers.AbstractJsonUserAttributeMapper;

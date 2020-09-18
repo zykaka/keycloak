@@ -18,7 +18,7 @@
 package org.keycloak.adapters.osgi.undertow;
 
 import org.keycloak.adapters.osgi.PaxWebSecurityConstraintMapping;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.ops4j.pax.web.service.WebContainer;
 import org.osgi.framework.BundleContext;
 import org.osgi.framework.ServiceReference;

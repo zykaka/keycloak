@@ -38,7 +38,7 @@ import org.apache.http.client.protocol.HttpClientContext;
 import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Element;
 import static org.hamcrest.Matchers.containsString;

@@ -17,7 +17,7 @@
 
 package org.keycloak.protocol.saml;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.ClientConfigResolver;
 import org.keycloak.models.ClientModel;
 import org.keycloak.saml.SignatureAlgorithm;

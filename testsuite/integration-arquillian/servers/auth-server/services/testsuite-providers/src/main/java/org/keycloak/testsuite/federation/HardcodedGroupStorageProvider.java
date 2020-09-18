@@ -16,7 +16,7 @@
  */
 package org.keycloak.testsuite.federation;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.ClientModel;
 import org.keycloak.models.GroupModel;
 import org.keycloak.models.RealmModel;

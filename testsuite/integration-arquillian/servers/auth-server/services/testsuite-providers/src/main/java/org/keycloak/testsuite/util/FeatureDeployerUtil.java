@@ -25,7 +25,7 @@ import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.stream.Collectors;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.Profile;
 import org.keycloak.provider.DefaultProviderLoader;
 import org.keycloak.provider.EnvironmentDependentProviderFactory;

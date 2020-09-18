@@ -36,7 +36,7 @@ import org.jboss.arquillian.core.api.Instance;
 import org.jboss.arquillian.core.api.annotation.Inject;
 import org.jboss.arquillian.core.spi.Validate;
 import org.jboss.arquillian.test.spi.TestEnricher;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.connections.infinispan.InfinispanConnectionProvider;
 import org.keycloak.common.util.Retry;
 import org.keycloak.testsuite.arquillian.annotation.JmxInfinispanCacheStatistics;

@@ -24,7 +24,7 @@ import java.util.HashMap;
 import java.util.Map;
 import org.arquillian.undertow.UndertowContainerConfiguration;
 import org.jboss.arquillian.container.spi.ConfigurationException;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 public class KeycloakOnUndertowConfiguration extends UndertowContainerConfiguration {
 

@@ -19,7 +19,7 @@ package org.keycloak.testsuite.utils.arquillian.fuse;
 
 import org.jboss.arquillian.container.osgi.OSGiApplicationArchiveProcessor;
 import org.jboss.arquillian.test.spi.TestClass;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.shrinkwrap.api.Archive;
 
 /**

@@ -20,7 +20,7 @@ package org.keycloak.migration;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.regex.Pattern;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.Version;
 import org.keycloak.migration.migrators.MigrateTo1_2_0;
 import org.keycloak.migration.migrators.MigrateTo1_3_0;

@@ -18,7 +18,7 @@
 package org.keycloak.adapters.rotation;
 
 import org.apache.http.client.methods.HttpGet;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.HttpAdapterUtils;
 import org.keycloak.adapters.HttpClientAdapterException;
 import org.keycloak.adapters.KeycloakDeployment;

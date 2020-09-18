@@ -17,7 +17,7 @@
 
 package org.keycloak.services.scheduled;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.cluster.ClusterProvider;
 import org.keycloak.cluster.ExecutionResult;
 import org.keycloak.models.KeycloakSession;

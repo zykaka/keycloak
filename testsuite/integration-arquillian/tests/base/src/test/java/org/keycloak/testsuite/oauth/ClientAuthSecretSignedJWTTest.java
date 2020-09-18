@@ -28,7 +28,7 @@ import org.apache.http.client.methods.HttpPost;
 import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.message.BasicNameValuePair;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.junit.Rule;
 import org.junit.Test;
 import org.keycloak.OAuth2Constants;

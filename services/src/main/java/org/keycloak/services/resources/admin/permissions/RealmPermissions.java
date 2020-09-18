@@ -16,7 +16,7 @@
  */
 package org.keycloak.services.resources.admin.permissions;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.authorization.AuthorizationProvider;
 import org.keycloak.models.AdminRoles;
 import org.keycloak.models.KeycloakSession;

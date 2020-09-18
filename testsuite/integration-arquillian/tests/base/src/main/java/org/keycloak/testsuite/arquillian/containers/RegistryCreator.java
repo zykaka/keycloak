@@ -31,7 +31,7 @@ import org.jboss.arquillian.core.api.annotation.Inject;
 import org.jboss.arquillian.core.api.annotation.Observes;
 import org.jboss.arquillian.core.spi.ServiceLoader;
 import org.jboss.arquillian.core.spi.Validate;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.shrinkwrap.descriptor.spi.node.Node;
 import org.jboss.shrinkwrap.descriptor.spi.node.NodeDescriptor;
 import org.keycloak.testsuite.arquillian.container.AppServerContainerService;

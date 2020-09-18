@@ -17,7 +17,7 @@
 
 package org.keycloak.saml.common;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.saml.common.constants.GeneralConstants;
 import org.keycloak.saml.common.constants.WSTrustConstants;
 import org.keycloak.saml.common.exceptions.ConfigurationException;

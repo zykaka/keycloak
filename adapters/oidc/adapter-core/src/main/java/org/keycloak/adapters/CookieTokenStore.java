@@ -17,7 +17,7 @@
 
 package org.keycloak.adapters;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.KeycloakPrincipal;
 import org.keycloak.TokenVerifier;
 import org.keycloak.adapters.rotation.AdapterTokenVerifier;

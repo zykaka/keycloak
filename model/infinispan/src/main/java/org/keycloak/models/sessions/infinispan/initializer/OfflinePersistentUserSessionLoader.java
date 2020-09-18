@@ -20,7 +20,7 @@ package org.keycloak.models.sessions.infinispan.initializer;
 import org.infinispan.Cache;
 import org.infinispan.client.hotrod.exceptions.HotRodClientException;
 import org.infinispan.context.Flag;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.Retry;
 import org.keycloak.common.util.Time;
 import org.keycloak.models.KeycloakSession;

@@ -1,7 +1,7 @@
 package org.keycloak.testsuite.util;
 
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.KeycloakUriBuilder;
 import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;

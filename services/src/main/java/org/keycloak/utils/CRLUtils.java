@@ -40,7 +40,7 @@ import org.bouncycastle.asn1.x509.DistributionPoint;
 import org.bouncycastle.asn1.x509.DistributionPointName;
 import org.bouncycastle.asn1.x509.GeneralName;
 import org.bouncycastle.asn1.x509.GeneralNames;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.BouncyIntegration;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.truststore.TruststoreProvider;

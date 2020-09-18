@@ -16,7 +16,7 @@
  */
 package org.keycloak.jose.jws;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Token;
 import org.keycloak.TokenCategory;
 import org.keycloak.crypto.Algorithm;

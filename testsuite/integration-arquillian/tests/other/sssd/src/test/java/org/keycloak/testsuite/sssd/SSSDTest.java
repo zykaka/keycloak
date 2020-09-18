@@ -10,7 +10,7 @@ import javax.ws.rs.core.Response;
 import org.apache.commons.configuration.ConfigurationException;
 import org.apache.commons.configuration.PropertiesConfiguration;
 import org.jboss.arquillian.graphene.page.Page;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.junit.Assume;
 import org.junit.Before;
 import org.junit.BeforeClass;

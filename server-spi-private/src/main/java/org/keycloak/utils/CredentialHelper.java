@@ -19,7 +19,7 @@ package org.keycloak.utils;
 
 import javax.ws.rs.core.Response;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.authentication.Authenticator;
 import org.keycloak.authentication.AuthenticatorFactory;
 import org.keycloak.authentication.ClientAuthenticator;

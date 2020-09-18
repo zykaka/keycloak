@@ -19,7 +19,7 @@ package org.keycloak.adapters;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.authentication.ClientCredentialsProvider;
 import org.keycloak.adapters.authorization.PolicyEnforcer;
 import org.keycloak.adapters.rotation.PublicKeyLocator;

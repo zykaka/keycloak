@@ -22,7 +22,7 @@ import java.util.Queue;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Future;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  * Not thread-safe. Assumes tasks are added from single thread.

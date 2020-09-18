@@ -23,7 +23,7 @@ import io.undertow.server.HttpServerExchange;
 import io.undertow.server.session.SessionManager;
 import io.undertow.servlet.handlers.ServletRequestContext;
 import io.undertow.servlet.spec.HttpSessionImpl;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import org.keycloak.adapters.saml.SamlDeployment;
 import org.keycloak.adapters.saml.SamlSession;

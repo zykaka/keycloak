@@ -43,7 +43,7 @@ import javax.transaction.Transaction;
 import com.fasterxml.jackson.core.type.TypeReference;
 import org.hibernate.internal.SessionFactoryImpl;
 import org.hibernate.internal.SessionImpl;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.ServerStartupError;
 import org.keycloak.common.Version;

@@ -7,7 +7,7 @@ import javax.ws.rs.core.Response;
 import java.util.concurrent.Callable;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.LockSupport;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 public class IncrementalBackoffRetryPolicy implements BackoffRetryPolicy {
 

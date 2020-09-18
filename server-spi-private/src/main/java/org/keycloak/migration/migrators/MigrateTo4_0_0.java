@@ -19,7 +19,7 @@ package org.keycloak.migration.migrators;
 
 import java.util.List;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.OAuth2Constants;
 import org.keycloak.component.ComponentModel;
 import org.keycloak.migration.ModelVersion;

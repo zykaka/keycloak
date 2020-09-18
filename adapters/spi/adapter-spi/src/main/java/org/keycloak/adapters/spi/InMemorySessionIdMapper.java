@@ -21,7 +21,7 @@ import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  * Maps external principal and SSO id to internal local http session id

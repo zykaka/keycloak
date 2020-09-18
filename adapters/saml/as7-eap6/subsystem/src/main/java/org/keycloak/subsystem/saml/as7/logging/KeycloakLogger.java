@@ -18,7 +18,7 @@ package org.keycloak.subsystem.saml.as7.logging;
 
 import org.jboss.logging.BasicLogger;
 import org.jboss.logging.LogMessage;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.logging.Message;
 import org.jboss.logging.MessageLogger;
 

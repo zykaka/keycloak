@@ -21,7 +21,7 @@ import java.net.URI;
 import java.util.Objects;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 public class DBAllocatorServiceClient {
 

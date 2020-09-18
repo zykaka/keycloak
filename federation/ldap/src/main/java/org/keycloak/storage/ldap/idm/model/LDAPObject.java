@@ -17,7 +17,7 @@
 
 package org.keycloak.storage.ldap.idm.model;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import java.util.Arrays;
 import java.util.Collection;

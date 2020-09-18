@@ -18,7 +18,7 @@ package org.keycloak.authorization.client.util;
 
 import java.util.concurrent.Callable;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.authorization.client.Configuration;
 import org.keycloak.authorization.client.representation.ServerConfiguration;
 import org.keycloak.common.util.Time;

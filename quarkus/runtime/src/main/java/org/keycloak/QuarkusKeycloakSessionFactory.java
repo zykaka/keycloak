@@ -10,7 +10,7 @@ import java.util.Optional;
 import java.util.Set;
 import java.util.function.Function;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.provider.KeycloakDeploymentInfo;
 import org.keycloak.provider.ProviderFactory;
 import org.keycloak.provider.ProviderLoader;

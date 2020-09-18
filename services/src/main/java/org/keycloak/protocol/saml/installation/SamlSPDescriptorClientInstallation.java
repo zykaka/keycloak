@@ -17,7 +17,7 @@
 
 package org.keycloak.protocol.saml.installation;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.dom.saml.v2.metadata.KeyTypes;
 import org.keycloak.models.ClientModel;

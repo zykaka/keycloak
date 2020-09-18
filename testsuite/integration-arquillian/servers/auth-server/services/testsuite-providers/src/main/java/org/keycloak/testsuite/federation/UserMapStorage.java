@@ -49,7 +49,7 @@ import java.util.concurrent.ConcurrentSkipListSet;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import static org.keycloak.storage.UserStorageProviderModel.IMPORT_ENABLED;
 
 /**

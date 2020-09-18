@@ -25,7 +25,7 @@ package org.jvnet.libpam;
 
 import com.sun.jna.Pointer;
 import com.sun.jna.ptr.PointerByReference;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jvnet.libpam.impl.CLibrary.passwd;
 import org.jvnet.libpam.impl.PAMLibrary.pam_conv;
 import org.jvnet.libpam.impl.PAMLibrary.pam_conv.PamCallback;

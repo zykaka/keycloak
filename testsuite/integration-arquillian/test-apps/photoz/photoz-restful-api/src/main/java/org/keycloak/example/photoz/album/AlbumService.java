@@ -24,7 +24,7 @@ import javax.ws.rs.core.Response.Status;
 import java.util.HashSet;
 import java.util.List;
 import javax.ws.rs.core.HttpHeaders;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 @Path("/album")
 public class AlbumService {

@@ -20,7 +20,7 @@ package org.keycloak.device;
 import javax.ws.rs.core.HttpHeaders;
 import java.io.IOException;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.Base64;
 import org.keycloak.models.KeycloakContext;
 import org.keycloak.models.KeycloakSession;

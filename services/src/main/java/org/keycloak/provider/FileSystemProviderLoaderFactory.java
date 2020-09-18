@@ -16,7 +16,7 @@
  */
 package org.keycloak.provider;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import java.io.File;
 import java.io.FilenameFilter;

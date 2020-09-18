@@ -22,7 +22,7 @@ import java.util.Map;
 import java.util.Properties;
 import java.util.ServiceLoader;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.saml.config.SP;
 import org.keycloak.adapters.saml.config.parsers.ResourceLoader;
 

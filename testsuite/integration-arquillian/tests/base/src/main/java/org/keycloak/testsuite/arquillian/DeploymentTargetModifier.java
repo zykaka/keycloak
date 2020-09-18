@@ -27,7 +27,7 @@ import org.jboss.arquillian.core.api.Instance;
 import org.jboss.arquillian.core.api.annotation.Inject;
 import org.jboss.arquillian.container.test.impl.client.deployment.AnnotationDeploymentScenarioGenerator;
 import org.jboss.arquillian.test.spi.TestClass;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.StringPropertyReplacer;
 import org.keycloak.testsuite.utils.arquillian.ContainerConstants;
 

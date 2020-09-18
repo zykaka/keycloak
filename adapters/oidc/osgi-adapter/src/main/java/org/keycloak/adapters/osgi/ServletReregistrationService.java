@@ -19,7 +19,7 @@ package org.keycloak.adapters.osgi;
 
 import org.apache.cxf.transport.http.DestinationRegistry;
 import org.apache.cxf.transport.servlet.CXFNonSpringServlet;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.ops4j.pax.web.service.WebContainer;
 import org.osgi.framework.BundleContext;
 import org.osgi.framework.ServiceReference;

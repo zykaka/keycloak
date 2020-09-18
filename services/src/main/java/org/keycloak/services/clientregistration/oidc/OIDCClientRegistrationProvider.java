@@ -16,7 +16,7 @@
  */
 package org.keycloak.services.clientregistration.oidc;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.OAuth2Constants;
 import org.keycloak.common.util.Time;
 import org.keycloak.models.ClientModel;

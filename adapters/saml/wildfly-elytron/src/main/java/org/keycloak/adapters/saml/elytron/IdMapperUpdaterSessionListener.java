@@ -25,7 +25,7 @@ import javax.servlet.http.HttpSessionAttributeListener;
 import javax.servlet.http.HttpSessionBindingEvent;
 import javax.servlet.http.HttpSessionEvent;
 import javax.servlet.http.HttpSessionListener;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 /**
  *

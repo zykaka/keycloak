@@ -23,7 +23,7 @@ import org.jboss.arquillian.container.test.api.RunAsClient;
 import org.jboss.arquillian.drone.api.annotation.Drone;
 import org.jboss.arquillian.graphene.page.Page;
 import org.jboss.arquillian.test.api.ArquillianResource;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.runner.RunWith;

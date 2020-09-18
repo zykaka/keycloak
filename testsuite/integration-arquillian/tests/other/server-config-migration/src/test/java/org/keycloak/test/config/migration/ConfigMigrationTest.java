@@ -28,7 +28,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.stream.Collectors;
 import org.jboss.dmr.ModelNode;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.junit.Assert;
 import org.junit.Test;
 

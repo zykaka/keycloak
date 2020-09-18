@@ -17,7 +17,7 @@
 
 package org.keycloak.adapters.saml;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.adapters.saml.profile.SamlAuthenticationHandler;
 import org.keycloak.adapters.saml.profile.ecp.EcpAuthenticationHandler;
 import org.keycloak.adapters.saml.profile.webbrowsersso.WebBrowserSsoAuthenticationHandler;

@@ -31,7 +31,7 @@ import liquibase.resource.ClassLoaderResourceAccessor;
 import liquibase.resource.ResourceAccessor;
 import liquibase.servicelocator.ServiceLocator;
 import liquibase.sqlgenerator.SqlGeneratorFactory;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.Config;
 import org.keycloak.connections.jpa.updater.liquibase.LiquibaseJpaUpdaterProvider;
 import org.keycloak.connections.jpa.updater.liquibase.PostgresPlusDatabase;

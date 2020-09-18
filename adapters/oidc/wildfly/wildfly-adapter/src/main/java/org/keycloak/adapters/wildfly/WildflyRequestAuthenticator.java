@@ -26,7 +26,7 @@ import java.util.Set;
 
 import javax.security.auth.Subject;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jboss.security.NestableGroup;
 import org.jboss.security.SecurityConstants;
 import org.jboss.security.SecurityContextAssociation;

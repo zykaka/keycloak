@@ -19,7 +19,7 @@ package org.keycloak.models.sessions.infinispan.changes.sessions;
 
 import java.util.UUID;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.models.RealmModel;
 import org.keycloak.models.UserSessionModel;

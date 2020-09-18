@@ -24,7 +24,7 @@ import org.apache.catalina.LifecycleListener;
 import org.apache.catalina.authenticator.FormAuthenticator;
 import org.apache.catalina.connector.Request;
 import org.apache.catalina.connector.Response;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 
 import org.keycloak.adapters.saml.config.parsers.DeploymentBuilder;
 import org.keycloak.adapters.saml.config.parsers.ResourceLoader;

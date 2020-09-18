@@ -20,7 +20,7 @@ package org.keycloak.storage.ldap.mappers;
 import java.util.HashSet;
 import java.util.Set;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.AbstractKeycloakTransaction;
 import org.keycloak.storage.ldap.LDAPStorageProvider;
 import org.keycloak.storage.ldap.idm.model.LDAPObject;

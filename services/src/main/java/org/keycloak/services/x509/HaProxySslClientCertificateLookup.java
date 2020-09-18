@@ -18,7 +18,7 @@
 
 package org.keycloak.services.x509;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.common.util.PemException;
 import org.keycloak.common.util.PemUtils;
 

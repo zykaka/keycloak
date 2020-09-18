@@ -19,7 +19,7 @@ package org.keycloak.models.sessions.infinispan.initializer;
 
 import org.infinispan.Cache;
 import org.infinispan.manager.EmbeddedCacheManager;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.models.KeycloakSession;
 import org.keycloak.models.KeycloakSessionFactory;
 import org.keycloak.models.KeycloakSessionTask;

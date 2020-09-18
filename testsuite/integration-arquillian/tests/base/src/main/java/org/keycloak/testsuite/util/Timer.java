@@ -17,7 +17,7 @@
 package org.keycloak.testsuite.util;
 
 import org.apache.commons.io.IOUtils;
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartUtilities;
 import org.jfree.chart.JFreeChart;

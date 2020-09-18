@@ -28,7 +28,7 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.Properties;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.broker.provider.BrokeredIdentityContext;
 import org.keycloak.common.util.ObjectUtil;
 import org.keycloak.email.EmailException;

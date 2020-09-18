@@ -17,7 +17,7 @@
 
 package org.keycloak.models.cache.infinispan;
 
-import org.jboss.logging.Logger;
+import org.keycloak.common.Logger;
 import org.keycloak.cluster.ClusterProvider;
 import org.keycloak.component.ComponentModel;
 import org.keycloak.migration.MigrationModel;
